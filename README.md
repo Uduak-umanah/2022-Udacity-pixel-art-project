@@ -1,1 +1,1 @@
-# 2022-pixel-art-project
+# 2022 udacity-pixel-art-project
