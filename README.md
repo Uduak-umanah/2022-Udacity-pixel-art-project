@@ -7,7 +7,7 @@ You can run a hosted version of the app at  https://uduak-umanah.github.io/2022-
 
 
 # How to Use the App
-Set the canvas size using the width and height input selects boxes. When finished, click on submit.
+1 Set the canvas size using the width and height input selects boxes. When finished, click on submit.
 Choose a color from the color picker input box.
 Click on any box in the grid to change that boxes color.
 Repeat steps 2 and 3 until your design is complete.
